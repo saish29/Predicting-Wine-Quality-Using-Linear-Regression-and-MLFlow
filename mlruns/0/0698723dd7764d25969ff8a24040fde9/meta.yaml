@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saish/Documents/Predicting-Wine-Quality-Using-Linear-Regression-and-MLFlow/mlruns/0/0698723dd7764d25969ff8a24040fde9/artifacts
+end_time: 1691209612473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0698723dd7764d25969ff8a24040fde9
+run_name: whimsical-mink-753
+run_uuid: 0698723dd7764d25969ff8a24040fde9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691209607283
+status: 3
+tags: []
+user_id: saish
